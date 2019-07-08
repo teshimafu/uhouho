@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/uhouho/static/css/main.d31350fb.chunk.css",
-    "main.js": "/uhouho/static/js/main.d37aaa9e.chunk.js",
-    "main.js.map": "/uhouho/static/js/main.d37aaa9e.chunk.js.map",
+    "main.js": "/uhouho/static/js/main.9653ec8c.chunk.js",
+    "main.js.map": "/uhouho/static/js/main.9653ec8c.chunk.js.map",
     "runtime~main.js": "/uhouho/static/js/runtime~main.ca578244.js",
     "runtime~main.js.map": "/uhouho/static/js/runtime~main.ca578244.js.map",
     "static/js/2.3d8dcad6.chunk.js": "/uhouho/static/js/2.3d8dcad6.chunk.js",
     "static/js/2.3d8dcad6.chunk.js.map": "/uhouho/static/js/2.3d8dcad6.chunk.js.map",
     "index.html": "/uhouho/index.html",
-    "precache-manifest.cb82bb9dd4af463cfaf9e7458aefc322.js": "/uhouho/precache-manifest.cb82bb9dd4af463cfaf9e7458aefc322.js",
+    "precache-manifest.b116ea70223d66091e64b0da4f495dec.js": "/uhouho/precache-manifest.b116ea70223d66091e64b0da4f495dec.js",
     "service-worker.js": "/uhouho/service-worker.js",
     "static/css/main.d31350fb.chunk.css.map": "/uhouho/static/css/main.d31350fb.chunk.css.map"
   }
