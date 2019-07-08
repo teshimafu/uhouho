@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/uhouho/static/css/main.19393e92.chunk.css",
+    "main.js": "/uhouho/static/js/main.9de07fb3.chunk.js",
+    "main.js.map": "/uhouho/static/js/main.9de07fb3.chunk.js.map",
+    "runtime~main.js": "/uhouho/static/js/runtime~main.ca578244.js",
+    "runtime~main.js.map": "/uhouho/static/js/runtime~main.ca578244.js.map",
+    "static/js/2.b41502e9.chunk.js": "/uhouho/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/uhouho/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/uhouho/index.html",
+    "precache-manifest.de4d3562060ad27749fcb760f895d19b.js": "/uhouho/precache-manifest.de4d3562060ad27749fcb760f895d19b.js",
+    "service-worker.js": "/uhouho/service-worker.js",
+    "static/css/main.19393e92.chunk.css.map": "/uhouho/static/css/main.19393e92.chunk.css.map",
+    "static/media/logo.svg": "/uhouho/static/media/logo.5d5d9eef.svg"
+  }
+}
