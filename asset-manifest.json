@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/uhouho/static/css/main.d31350fb.chunk.css",
-    "main.js": "/uhouho/static/js/main.05877187.chunk.js",
-    "main.js.map": "/uhouho/static/js/main.05877187.chunk.js.map",
+    "main.js": "/uhouho/static/js/main.060d4632.chunk.js",
+    "main.js.map": "/uhouho/static/js/main.060d4632.chunk.js.map",
     "runtime~main.js": "/uhouho/static/js/runtime~main.ca578244.js",
     "runtime~main.js.map": "/uhouho/static/js/runtime~main.ca578244.js.map",
-    "static/js/2.3d8dcad6.chunk.js": "/uhouho/static/js/2.3d8dcad6.chunk.js",
-    "static/js/2.3d8dcad6.chunk.js.map": "/uhouho/static/js/2.3d8dcad6.chunk.js.map",
+    "static/js/2.a8086230.chunk.js": "/uhouho/static/js/2.a8086230.chunk.js",
+    "static/js/2.a8086230.chunk.js.map": "/uhouho/static/js/2.a8086230.chunk.js.map",
     "index.html": "/uhouho/index.html",
-    "precache-manifest.0d6fe16427604f7cfbc861dd70a8a25a.js": "/uhouho/precache-manifest.0d6fe16427604f7cfbc861dd70a8a25a.js",
+    "precache-manifest.aecc76a857448efac5c63eb1ec014c71.js": "/uhouho/precache-manifest.aecc76a857448efac5c63eb1ec014c71.js",
     "service-worker.js": "/uhouho/service-worker.js",
-    "static/css/main.d31350fb.chunk.css.map": "/uhouho/static/css/main.d31350fb.chunk.css.map"
+    "static/css/main.d31350fb.chunk.css.map": "/uhouho/static/css/main.d31350fb.chunk.css.map",
+    "static/media/tt.png": "/uhouho/static/media/tt.5e64a4d3.png"
   }
 }
