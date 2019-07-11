@@ -38,6 +38,7 @@ export class Convertor {
 
     static readonly randomDict: string[] = [
         "ボルダリング行こうぜ",
+        "草",
         "なんだてめえ",
         "最近雨が多いですね",
         "好きなタイプは？",
